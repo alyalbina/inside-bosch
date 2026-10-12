@@ -1,4 +1,4 @@
-# Test plan and verification log · 12 October 2026
+# Test plan and verification log · 13 October 2026
 
 ## Automated coverage
 
@@ -26,8 +26,10 @@ The exact overall reproduction and a contact sheet of all initial boxes were ins
 
 The previous hosted opening screenshot was inspected to guide revision. The catalogue-style opening uses a new authentic crop and bundled Latin/Cyrillic fonts. New display components replace the embedded opening/header/inspector JSX. The selected marker remains visible while overview markers start hidden. Build and automated tests are rerun after these changes.
 
-## Browser verification not completed
+## Published desktop smoke checks
 
-The supported Sites browser-control skill is unavailable in this session. Per the Sites workflow, no preview server or substitute browser-control path was started. Therefore this log does **not** claim passing UI, browser, mobile or performance tests.
+The public GitHub Pages prototype was checked in a desktop browser on 13 October 2026. Passed: opening loads; glass-globe entry focuses the real image; zoom changes the displayed scale; RU/EN switching preserves the detail; interpretation disclosure displays its museum source; saving appears in the journal; removal clears the saved state; Escape closes the journal. The Russian and English portfolio pages load, their language switch works, and their hero composition was visually inspected. A real English viewer screenshot is included in the case.
 
-Pending scenarios: enter through prologue; resume route; pan/wheel/pinch; click each marker; refocus after home; hide markers; each panel filter; change language with a detail open; search for Cyrillic/English; follow all threads; save/unsave and edit note; reload/export; dialog focus/Escape; keyboard journey; image/storage failures; no spontaneous audio; background audio pause; fullscreen; reduced motion; 390/768/1440 px layouts. User testing: 8–12 visitors, task success and confusion observed without leading questions. No results fabricated.
+These are bounded smoke checks, not a full browser, mobile, performance or accessibility audit. The remaining scenarios below still require validation.
+
+Pending scenarios: enter through prologue; resume route; pan/wheel/pinch; click each marker; refocus after home; hide markers; each panel filter; search for Cyrillic/English; follow all threads; edit note; reload/export; full dialog focus-cycle review; keyboard journey; image/storage failures; audio and background pause; fullscreen; reduced motion; 390/768/1440 px layouts. User testing: 8–12 visitors, task success and confusion observed without leading questions. No results fabricated.

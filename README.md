@@ -6,6 +6,8 @@
 
 One painting. Thousands of details. No simple answer. A bilingual exploration of Hieronymus Bosch’s _Garden of Earthly Delights_, built around close looking, curiosity and the visitor’s own questions.
 
+**[Explore the live experience →](https://alyalbina.github.io/inside-bosch/)** · **[View the designed case →](https://alyalbina.github.io/inside-bosch/portfolio/index.en.html)**
+
 **[Read the design case →](docs/portfolio/CASE_STUDY.md)** · **[Кейс на русском →](docs/portfolio/CASE_STUDY.ru.md)** · [Run locally](#run-locally) · [Design system](docs/DESIGN_SYSTEM.md)
 
 | Project                         | My role                                                                  | Delivery                                            |
@@ -18,9 +20,9 @@ A reproduction can show the whole painting and still conceal almost everything w
 
 The product keeps three things distinct: **what is visible**, **how a source interprets it**, and **what remains open**. Looking comes before explanation.
 
-![Three authentic details: Eden, the glass globe and the Tree-Man.](docs/portfolio/assets/three-worlds.png)
+![The published desktop prototype: Deep Zoom and a focused detail reader.](public/portfolio/assets/exploration.jpg)
 
-_Authentic artwork fragments used in the project. These editorial plates illustrate the experience; they are not interface screenshots._
+_Actual desktop screenshot of the published English prototype. The cover and visual-system plates are editorial presentation assets._
 
 ## The experience
 
@@ -89,7 +91,7 @@ After building, `node scripts/serve.mjs` serves the project at `http://localhost
 
 Ten automated checks cover bilingual content, source and relationship IDs, region geometry, journey bounds, journal recovery, tile completeness and RU/EN opening rendering. TypeScript and the production build pass.
 
-Browser interaction, mobile gestures, accessibility conformance and user outcomes remain to be validated. Some annotated regions are observations without a sourced interpretation. Source provenance and claim support are documented; independent scholarly review is pending.
+Desktop smoke checks verify detail entry, zoom, language switching, reading disclosure, saving/removing a detail and journal dismissal with Escape. Cross-device interactions, mobile gestures, accessibility conformance and user outcomes remain to be validated. Some annotated regions are observations without a sourced interpretation. Source provenance and claim support are documented; independent scholarly review is pending.
 
 Next: observe first-time visitors discovering a detail, comparing a motif and returning to the whole painting. Evaluate orientation and understanding of the distinction between observation and interpretation. [Verification log →](docs/TEST_PLAN.md)
 
@@ -107,7 +109,7 @@ Next: observe first-time visitors discovering a detail, comparing a motif and re
 
 ## Publication
 
-Source repository: **[alyalbina/inside-bosch](https://github.com/alyalbina/inside-bosch)**. See [deployment and updates](docs/PUBLISHING.md). The workflow for GitHub Pages is included; a public demo URL will be added after a successful deployment. The existing ChatGPT review version is owner-private.
+Source repository: **[alyalbina/inside-bosch](https://github.com/alyalbina/inside-bosch)**. See [deployment and updates](docs/PUBLISHING.md). The application and both designed case pages are deployed on GitHub Pages. [Live experience](https://alyalbina.github.io/inside-bosch/) · [Case in English](https://alyalbina.github.io/inside-bosch/portfolio/index.en.html) · [Кейс на русском](https://alyalbina.github.io/inside-bosch/portfolio/index.html).
 
 ## Artwork & credits
 

@@ -60,6 +60,10 @@ The revised opening uses warm paper, Cormorant Garamond, Manrope and a portrait 
 
 [Design system](../DESIGN_SYSTEM.md) · [Experience](../EXPERIENCE_DESIGN.md) · [Interactions](../INTERACTION_SPECIFICATIONS.md)
 
+![The published desktop interface](../../public/portfolio/assets/exploration.jpg)
+
+_The actual English desktop prototype: artwork exploration and the detail reader._
+
 ## 05 — Uncertainty is a content-design requirement
 
 Each detail separates visible observation, possible readings, source IDs and an open question. Claim kinds distinguish museum interpretation, scholarly argument and visual comparison. Some details remain observation-only.
@@ -87,7 +91,7 @@ Local tiles remove dependence on a live third-party image endpoint. The trade-of
 
 Ten automated checks and the production build pass. Checks cover content and IDs, geometry, journey boundaries, journal recovery, all tile paths and RU/EN opening rendering. The master checksum and source-image crops were checked.
 
-Browser interaction, mobile gestures, low-memory performance, accessibility conformance, user outcomes and independent scholarly review remain pending. The visual plates here are project presentation assets, not screenshots of a browser-tested interface.
+Desktop smoke checks verify detail entry, zoom, RU/EN switching, sourced-reading disclosure, saving/removing a detail and journal dismissal with Escape. Cross-device interaction, mobile gestures, low-memory performance, accessibility conformance, user outcomes and independent scholarly review remain pending. The visual plates here are project presentation assets, not screenshots of a browser-tested interface.
 
 ## 08 — What I would test next
 
