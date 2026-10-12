@@ -1,0 +1,14 @@
+{
+  "source_sha1": "61b8082a24c953ce819c3238eb2d19445979945e",
+  "width": 39137,
+  "height": 22279,
+  "format": "webp",
+  "tile_size": 512,
+  "overlap": 1,
+  "tile_count": 4559,
+  "tile_bytes": 215619540,
+  "levels": 17,
+  "exterior_width": 1806,
+  "exterior_height": 1920,
+  "processing": "Lossy WebP compression, native resolution retained; crops and overview JPEG"
+}

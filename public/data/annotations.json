@@ -1,0 +1,1644 @@
+{
+  "schemaVersion": 1,
+  "image": {
+    "width": 39137,
+    "height": 22279,
+    "coordinateSystem": "normalised-to-exact-source-image",
+    "revision": "commons-2020-05-28-39137x22279"
+  },
+  "details": [
+    {
+      "id": "eden",
+      "panel": "eden",
+      "title": {
+        "ru": "Встреча в Эдеме",
+        "en": "A meeting in Eden"
+      },
+      "hook": {
+        "ru": "История начинается со взгляда.",
+        "en": "The story begins with a glance."
+      },
+      "observation": {
+        "ru": "Адам сидит на траве. Рядом стоит божественная фигура в розовом одеянии, держащая Еву за руку.",
+        "en": "Adam sits on the grass. Beside him, a divine figure in a pink robe holds Eve by the hand."
+      },
+      "question": {
+        "ru": "Почему взгляд Адама обращён к Еве, а её взгляд — вниз?",
+        "en": "Why does Adam look toward Eve while her gaze turns downward?"
+      },
+      "box": {
+        "x": 0.059,
+        "y": 0.608,
+        "width": 0.151,
+        "height": 0.231
+      },
+      "anchor": {
+        "x": 0.1345,
+        "y": 0.7235
+      },
+      "shape": "rect",
+      "motifs": [
+        "body",
+        "water"
+      ],
+      "related": [
+        "circle",
+        "globe"
+      ],
+      "interpretations": [
+        {
+          "kind": "scholarly_argument",
+          "text": {
+            "ru": "В диалоге Harris и Zucker сцена читается как представление Евы Адаму.",
+            "en": "Harris and Zucker read this as Eve being presented to Adam."
+          },
+          "sourceIds": [
+            "harris"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image",
+        "harris"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "source_checked",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Персонажи отсылают к библейскому рассказу об Адаме и Еве; изображённый жест не следует путать с моментом её физического создания.",
+        "en": "The figures refer to the biblical story of Adam and Eve; the depicted gesture should not be confused with her physical creation."
+      }
+    },
+    {
+      "id": "fountain",
+      "panel": "eden",
+      "title": {
+        "ru": "Фонтан, который кажется живым",
+        "en": "A fountain that seems alive"
+      },
+      "hook": {
+        "ru": "Архитектура или растение?",
+        "en": "Architecture or a plant?"
+      },
+      "observation": {
+        "ru": "Розовая конструкция стоит в воде. Её формы напоминают стебли, раковины и острые минеральные наросты.",
+        "en": "A pink structure stands in water. Its forms resemble stems, shells and pointed mineral growths."
+      },
+      "question": {
+        "ru": "Какие формы повторятся в центральной створке?",
+        "en": "Which shapes will return in the central panel?"
+      },
+      "box": {
+        "x": 0.085,
+        "y": 0.215,
+        "width": 0.077,
+        "height": 0.327
+      },
+      "anchor": {
+        "x": 0.1235,
+        "y": 0.3785
+      },
+      "shape": "rect",
+      "motifs": [
+        "water",
+        "architecture",
+        "hybrids"
+      ],
+      "related": [
+        "garden-fountain",
+        "owl"
+      ],
+      "interpretations": [
+        {
+          "kind": "visual_comparison",
+          "text": {
+            "ru": "Сопоставьте вертикальную ось и розовые формы этого фонтана с сооружениями сада. Сходство видно; единое значение не установлено.",
+            "en": "Compare its vertical axis and pink forms with the Garden structures. The resemblance is visible; a shared meaning is not established."
+          },
+          "sourceIds": [
+            "image"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "owl",
+      "panel": "eden",
+      "title": {
+        "ru": "Взгляд из тёмного отверстия",
+        "en": "A gaze from the dark"
+      },
+      "hook": {
+        "ru": "В фонтане кто-то есть.",
+        "en": "There is someone inside the fountain."
+      },
+      "observation": {
+        "ru": "В круглом отверстии основания фонтана видна маленькая сова.",
+        "en": "A small owl appears in the round opening at the fountain’s base."
+      },
+      "question": {
+        "ru": "Меняется ли впечатление от фонтана, когда вы замечаете наблюдателя?",
+        "en": "Does noticing a watcher change your impression of the fountain?"
+      },
+      "box": {
+        "x": 0.113,
+        "y": 0.477,
+        "width": 0.017,
+        "height": 0.038
+      },
+      "anchor": {
+        "x": 0.1215,
+        "y": 0.496
+      },
+      "shape": "rect",
+      "motifs": [
+        "birds",
+        "architecture"
+      ],
+      "related": [
+        "garden-owl",
+        "bird-devil"
+      ],
+      "interpretations": [],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "exotic",
+      "panel": "eden",
+      "title": {
+        "ru": "Слоны и жираф в раю",
+        "en": "An elephant and giraffe in Eden"
+      },
+      "hook": {
+        "ru": "Знакомое соседствует с невозможным.",
+        "en": "The familiar meets the impossible."
+      },
+      "observation": {
+        "ru": "На дальнем берегу находятся слон, жираф и другие животные; рядом растут фантастические формы.",
+        "en": "An elephant, a giraffe and other animals stand on the far bank beside fantastic forms."
+      },
+      "question": {
+        "ru": "Как Босх сочетает узнаваемых животных и вымышленные формы?",
+        "en": "How does Bosch combine recognisable animals and invented forms?"
+      },
+      "box": {
+        "x": 0.063,
+        "y": 0.239,
+        "width": 0.145,
+        "height": 0.169
+      },
+      "anchor": {
+        "x": 0.1355,
+        "y": 0.3235
+      },
+      "shape": "rect",
+      "motifs": [
+        "hybrids",
+        "water"
+      ],
+      "related": [
+        "birds",
+        "tree-man"
+      ],
+      "interpretations": [],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "predator",
+      "panel": "eden",
+      "title": {
+        "ru": "Хищник в раю",
+        "en": "A predator in paradise"
+      },
+      "hook": {
+        "ru": "В идеальном мире уже есть тревога.",
+        "en": "An ideal world already feels uneasy."
+      },
+      "observation": {
+        "ru": "Кошачий хищник несёт небольшую добычу в пасти, неподалёку от Адама.",
+        "en": "A feline predator carries a small creature in its mouth near Adam."
+      },
+      "question": {
+        "ru": "Позволяет ли эта сцена считать рай совершенно безмятежным?",
+        "en": "Does this scene let us call Eden entirely peaceful?"
+      },
+      "box": {
+        "x": 0.009,
+        "y": 0.798,
+        "width": 0.061,
+        "height": 0.08
+      },
+      "anchor": {
+        "x": 0.0395,
+        "y": 0.8380000000000001
+      },
+      "shape": "rect",
+      "motifs": [
+        "hybrids",
+        "body"
+      ],
+      "related": [
+        "bird-devil",
+        "eden"
+      ],
+      "interpretations": [
+        {
+          "kind": "scholarly_argument",
+          "text": {
+            "ru": "Mittman выделяет хищников как тревожную деталь райского пейзажа.",
+            "en": "Mittman draws attention to predators as an unsettling feature of Eden."
+          },
+          "sourceIds": [
+            "mittman"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image",
+        "mittman"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "source_checked",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "dark-pool",
+      "panel": "eden",
+      "title": {
+        "ru": "Тёмный водоём",
+        "en": "The dark pool"
+      },
+      "hook": {
+        "ru": "Опустите взгляд ниже Адама.",
+        "en": "Look below Adam."
+      },
+      "observation": {
+        "ru": "В тёмной воде нижнего правого угла левой створки видны птицы и странные существа.",
+        "en": "Birds and strange creatures appear in dark water at the lower right of the left panel."
+      },
+      "question": {
+        "ru": "Почему этот маленький участок отличается от светлого пейзажа?",
+        "en": "Why does this small area differ from the bright landscape?"
+      },
+      "box": {
+        "x": 0.097,
+        "y": 0.886,
+        "width": 0.137,
+        "height": 0.083
+      },
+      "anchor": {
+        "x": 0.1655,
+        "y": 0.9275
+      },
+      "shape": "rect",
+      "motifs": [
+        "water",
+        "hybrids",
+        "birds"
+      ],
+      "related": [
+        "circle",
+        "ice"
+      ],
+      "interpretations": [],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "circle",
+      "panel": "garden",
+      "title": {
+        "ru": "Круг желания",
+        "en": "The circle of desire"
+      },
+      "hook": {
+        "ru": "Среди хаоса обнаруживается строгий ритм.",
+        "en": "A precise rhythm appears within the chaos."
+      },
+      "observation": {
+        "ru": "Всадники на разных животных окружают овальный водоём с группой женщин.",
+        "en": "Riders on different animals surround an oval pool containing a group of women."
+      },
+      "question": {
+        "ru": "Это движение вперёд — или движение без выхода?",
+        "en": "Is this forward motion, or a movement with no exit?"
+      },
+      "box": {
+        "x": 0.322,
+        "y": 0.326,
+        "width": 0.384,
+        "height": 0.238
+      },
+      "anchor": {
+        "x": 0.514,
+        "y": 0.445
+      },
+      "shape": "rect",
+      "motifs": [
+        "water",
+        "body",
+        "hybrids"
+      ],
+      "related": [
+        "eden",
+        "garden-fountain"
+      ],
+      "interpretations": [
+        {
+          "kind": "museum_interpretation",
+          "text": {
+            "ru": "Прадо связывает круг всадников с человеческими пороками.",
+            "en": "The Prado associates the circle of riders with human vices."
+          },
+          "sourceIds": [
+            "easy"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image",
+        "easy"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "source_checked",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "garden-fountain",
+      "panel": "garden",
+      "title": {
+        "ru": "Хрупкая архитектура",
+        "en": "Fragile architecture"
+      },
+      "hook": {
+        "ru": "Вернитесь к форме, которую уже видели.",
+        "en": "Return to a shape you have already seen."
+      },
+      "observation": {
+        "ru": "В центре дальнего водоёма стоит сине-розовое сооружение. На его округлом основании заметны разрывы.",
+        "en": "A blue-and-pink structure stands in the distant pool. Breaks appear in its rounded base."
+      },
+      "question": {
+        "ru": "Что меняется при сравнении с фонтаном Эдема?",
+        "en": "What changes when you compare it with Eden’s fountain?"
+      },
+      "box": {
+        "x": 0.471,
+        "y": 0.058,
+        "width": 0.065,
+        "height": 0.255
+      },
+      "anchor": {
+        "x": 0.5035,
+        "y": 0.1855
+      },
+      "shape": "rect",
+      "motifs": [
+        "architecture",
+        "water"
+      ],
+      "related": [
+        "fountain",
+        "globe"
+      ],
+      "interpretations": [
+        {
+          "kind": "museum_interpretation",
+          "text": {
+            "ru": "Прадо читает трещины как знак недолговечности удовольствий.",
+            "en": "The Prado reads the cracks as a sign of pleasures that will not last."
+          },
+          "sourceIds": [
+            "easy"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image",
+        "easy"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "source_checked",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "birds",
+      "panel": "garden",
+      "title": {
+        "ru": "Когда птицы больше людей",
+        "en": "When birds outgrow people"
+      },
+      "hook": {
+        "ru": "Масштаб перестал подчиняться привычным правилам.",
+        "en": "Scale no longer follows familiar rules."
+      },
+      "observation": {
+        "ru": "У воды собрались огромные птицы и маленькие человеческие фигуры. Птицы различаются цветом и строением клювов.",
+        "en": "Huge birds gather by the water beside small human figures. Their colours and beaks differ."
+      },
+      "question": {
+        "ru": "Человек управляет природой — или стал частью её игры?",
+        "en": "Do humans control nature, or have they become part of its play?"
+      },
+      "box": {
+        "x": 0.25,
+        "y": 0.473,
+        "width": 0.134,
+        "height": 0.15
+      },
+      "anchor": {
+        "x": 0.317,
+        "y": 0.5479999999999999
+      },
+      "shape": "rect",
+      "motifs": [
+        "birds",
+        "body"
+      ],
+      "related": [
+        "owl",
+        "bird-devil"
+      ],
+      "interpretations": [
+        {
+          "kind": "visual_comparison",
+          "text": {
+            "ru": "В саду птицы возвышаются над людьми. В аду птичья голова появится у существа, которое пожирает человека. Это визуальное сопоставление.",
+            "en": "Birds tower over people in the Garden. In Hell, a bird-headed creature will swallow a human. This is a visual comparison."
+          },
+          "sourceIds": [
+            "image"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "globe",
+      "panel": "garden",
+      "title": {
+        "ru": "Счастье под стеклом",
+        "en": "Happiness under glass"
+      },
+      "hook": {
+        "ru": "Здесь можно укрыться. Но надолго ли?",
+        "en": "A place to shelter. But for how long?"
+      },
+      "observation": {
+        "ru": "Пара находится внутри прозрачной округлой оболочки, соединённой с растительной формой. На поверхности заметна линия разрыва.",
+        "en": "A couple occupies a transparent rounded enclosure attached to a plant form. A line of rupture is visible."
+      },
+      "question": {
+        "ru": "Защищает ли оболочка людей или подчёркивает их уязвимость?",
+        "en": "Does the enclosure protect the couple, or emphasise their vulnerability?"
+      },
+      "box": {
+        "x": 0.269,
+        "y": 0.643,
+        "width": 0.077,
+        "height": 0.13
+      },
+      "anchor": {
+        "x": 0.3075,
+        "y": 0.708
+      },
+      "shape": "rect",
+      "motifs": [
+        "spheres",
+        "body"
+      ],
+      "related": [
+        "garden-fountain",
+        "pink-vessel"
+      ],
+      "interpretations": [
+        {
+          "kind": "museum_interpretation",
+          "text": {
+            "ru": "В объяснении Прадо стеклянный шар означает хрупкость счастья.",
+            "en": "In the Prado’s explanation, the glass globe represents fragile happiness."
+          },
+          "sourceIds": [
+            "easy"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image",
+        "easy"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "source_checked",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "mussel",
+      "panel": "garden",
+      "title": {
+        "ru": "Пара в раковине",
+        "en": "A couple inside a shell"
+      },
+      "hook": {
+        "ru": "Обычная раковина стала комнатой.",
+        "en": "An ordinary shell becomes a room."
+      },
+      "observation": {
+        "ru": "Человеческие фигуры находятся внутри большой тёмной раковины, которую несёт другая фигура.",
+        "en": "Human figures occupy a large dark shell carried by another figure."
+      },
+      "question": {
+        "ru": "Какие ещё природные формы здесь становятся человеческим жилищем?",
+        "en": "Which other natural forms become human dwellings here?"
+      },
+      "box": {
+        "x": 0.392,
+        "y": 0.674,
+        "width": 0.089,
+        "height": 0.079
+      },
+      "anchor": {
+        "x": 0.4365,
+        "y": 0.7135
+      },
+      "shape": "rect",
+      "motifs": [
+        "body",
+        "hybrids"
+      ],
+      "related": [
+        "globe",
+        "tree-man"
+      ],
+      "interpretations": [],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "pink-vessel",
+      "panel": "garden",
+      "title": {
+        "ru": "Лица в розовом сосуде",
+        "en": "Faces in a pink vessel"
+      },
+      "hook": {
+        "ru": "Найдите границу между телом и предметом.",
+        "en": "Find the boundary between a body and an object."
+      },
+      "observation": {
+        "ru": "Из отверстий округлой розовой формы выглядывают человеческие лица; вокруг видны растительные отростки.",
+        "en": "Human faces look out from openings in a rounded pink form surrounded by plant-like projections."
+      },
+      "question": {
+        "ru": "Это плод, здание или вымышленное убежище?",
+        "en": "Is it a fruit, a building, or an invented shelter?"
+      },
+      "box": {
+        "x": 0.411,
+        "y": 0.567,
+        "width": 0.071,
+        "height": 0.097
+      },
+      "anchor": {
+        "x": 0.44649999999999995,
+        "y": 0.6154999999999999
+      },
+      "shape": "rect",
+      "motifs": [
+        "spheres",
+        "hybrids",
+        "architecture"
+      ],
+      "related": [
+        "globe",
+        "tree-man"
+      ],
+      "interpretations": [],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "shell-house",
+      "panel": "garden",
+      "title": {
+        "ru": "Дом без стен",
+        "en": "A house without walls"
+      },
+      "hook": {
+        "ru": "Жилище здесь не обязательно построено.",
+        "en": "A dwelling need not be built here."
+      },
+      "observation": {
+        "ru": "Несколько людей выглядывают из большой белой формы, похожей на раскрытую раковину.",
+        "en": "Several people emerge from a large white form resembling an open shell."
+      },
+      "question": {
+        "ru": "Можно ли чётко разделить людей и окружающий их мир?",
+        "en": "Can people be cleanly separated from the world around them?"
+      },
+      "box": {
+        "x": 0.463,
+        "y": 0.597,
+        "width": 0.067,
+        "height": 0.164
+      },
+      "anchor": {
+        "x": 0.49650000000000005,
+        "y": 0.6789999999999999
+      },
+      "shape": "rect",
+      "motifs": [
+        "body",
+        "hybrids",
+        "architecture"
+      ],
+      "related": [
+        "mussel",
+        "tree-man"
+      ],
+      "interpretations": [],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "berries",
+      "panel": "garden",
+      "title": {
+        "ru": "Ненасытный сад",
+        "en": "An insatiable Garden"
+      },
+      "hook": {
+        "ru": "Удовольствие приобрело собственный масштаб.",
+        "en": "Pleasure takes on a scale of its own."
+      },
+      "observation": {
+        "ru": "Группы людей держат и несут огромные тёмные ягоды и другие плоды, несоразмерные человеческому телу.",
+        "en": "Groups of people hold and carry huge dark berries and other fruit out of proportion to their bodies."
+      },
+      "question": {
+        "ru": "Плоды кажутся изобильными или чрезмерными?",
+        "en": "Does the fruit feel abundant, or excessive?"
+      },
+      "box": {
+        "x": 0.386,
+        "y": 0.741,
+        "width": 0.166,
+        "height": 0.191
+      },
+      "anchor": {
+        "x": 0.46900000000000003,
+        "y": 0.8365
+      },
+      "shape": "rect",
+      "motifs": [
+        "fruit",
+        "body"
+      ],
+      "related": [
+        "strawberry",
+        "bird-devil"
+      ],
+      "interpretations": [
+        {
+          "kind": "scholarly_argument",
+          "text": {
+            "ru": "Harris и Zucker обращают внимание на чрезмерный аппетит рядом с увеличенными плодами.",
+            "en": "Harris and Zucker draw attention to insatiable appetite beside enlarged fruit."
+          },
+          "sourceIds": [
+            "harris"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image",
+        "harris"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "source_checked",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "strawberry",
+      "panel": "garden",
+      "title": {
+        "ru": "Огромная ягода",
+        "en": "The oversized berry"
+      },
+      "hook": {
+        "ru": "Сравните её с фигурой рядом.",
+        "en": "Compare it with the figure beside it."
+      },
+      "observation": {
+        "ru": "Большой розово-красный плод с семенами располагается рядом с людьми и животными.",
+        "en": "A large pink-red fruit with seeds appears beside humans and animals."
+      },
+      "question": {
+        "ru": "Почему знакомый плод становится странным, когда меняется его размер?",
+        "en": "Why does familiar fruit become strange when its size changes?"
+      },
+      "box": {
+        "x": 0.575,
+        "y": 0.506,
+        "width": 0.043,
+        "height": 0.069
+      },
+      "anchor": {
+        "x": 0.5964999999999999,
+        "y": 0.5405
+      },
+      "shape": "rect",
+      "motifs": [
+        "fruit",
+        "body"
+      ],
+      "related": [
+        "berries",
+        "pink-vessel"
+      ],
+      "interpretations": [],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "garden-owl",
+      "panel": "garden",
+      "title": {
+        "ru": "Сова среди удовольствий",
+        "en": "An owl among pleasures"
+      },
+      "hook": {
+        "ru": "Один мотив — совсем другое окружение.",
+        "en": "One motif, a different setting."
+      },
+      "observation": {
+        "ru": "Крупная сова смотрит на зрителя среди человеческих фигур и фантастических форм.",
+        "en": "A large owl faces the viewer among human figures and fantastic forms."
+      },
+      "question": {
+        "ru": "Одинаково ли воспринимаются эта сова и сова в фонтане?",
+        "en": "Does this owl feel the same as the owl in the fountain?"
+      },
+      "box": {
+        "x": 0.696,
+        "y": 0.612,
+        "width": 0.034,
+        "height": 0.092
+      },
+      "anchor": {
+        "x": 0.713,
+        "y": 0.658
+      },
+      "shape": "rect",
+      "motifs": [
+        "birds"
+      ],
+      "related": [
+        "owl",
+        "bird-devil"
+      ],
+      "interpretations": [],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "fire",
+      "panel": "hell",
+      "title": {
+        "ru": "Горизонт в огне",
+        "en": "A horizon on fire"
+      },
+      "hook": {
+        "ru": "Вода и небо больше не успокаивают.",
+        "en": "Water and sky no longer soothe."
+      },
+      "observation": {
+        "ru": "В верхней части правой створки горят здания. Свет огня отражается в тёмной воде.",
+        "en": "Buildings burn in the upper right panel. Firelight reflects in dark water."
+      },
+      "question": {
+        "ru": "Как тот же горизонт превращается в другой мир?",
+        "en": "How does the same horizon become a different world?"
+      },
+      "box": {
+        "x": 0.775,
+        "y": 0.014,
+        "width": 0.208,
+        "height": 0.212
+      },
+      "anchor": {
+        "x": 0.879,
+        "y": 0.12
+      },
+      "shape": "rect",
+      "motifs": [
+        "water",
+        "architecture"
+      ],
+      "related": [
+        "garden-fountain",
+        "dark-pool"
+      ],
+      "interpretations": [
+        {
+          "kind": "scholarly_argument",
+          "text": {
+            "ru": "Mittman отмечает общий высокий горизонт трёх створок: пейзаж связывает разные миры.",
+            "en": "Mittman notes the shared high horizon of the three panels: landscape connects their different worlds."
+          },
+          "sourceIds": [
+            "mittman"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image",
+        "mittman"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "source_checked",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "ears",
+      "panel": "hell",
+      "title": {
+        "ru": "Уши, которые стали чудовищем",
+        "en": "Ears that become a monster"
+      },
+      "hook": {
+        "ru": "Часть тела больше целого человека.",
+        "en": "A body part outgrows a whole person."
+      },
+      "observation": {
+        "ru": "Два огромных уха соединены длинным ножом. Под ними видны маленькие фигуры.",
+        "en": "Two enormous ears are joined by a long knife. Small figures appear beneath them."
+      },
+      "question": {
+        "ru": "Что случилось с человеческим масштабом после перехода в ад?",
+        "en": "What happens to human scale after entering Hell?"
+      },
+      "box": {
+        "x": 0.799,
+        "y": 0.25,
+        "width": 0.08,
+        "height": 0.107
+      },
+      "anchor": {
+        "x": 0.8390000000000001,
+        "y": 0.3035
+      },
+      "shape": "rect",
+      "motifs": [
+        "body",
+        "hybrids"
+      ],
+      "related": [
+        "birds",
+        "tree-man"
+      ],
+      "interpretations": [],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "tree-man",
+      "panel": "hell",
+      "title": {
+        "ru": "Человек-дерево",
+        "en": "The Tree-Man"
+      },
+      "hook": {
+        "ru": "Загляните внутрь невозможного тела.",
+        "en": "Look inside an impossible body."
+      },
+      "observation": {
+        "ru": "Бледная фигура с человеческим лицом стоит на ногах-стволах, опирающихся на лодки. Полое туловище открывает сцену с людьми у стола.",
+        "en": "A pale figure with a human face stands on trunk-like legs resting in boats. Its hollow torso reveals people at a table."
+      },
+      "question": {
+        "ru": "Где заканчивается существо и начинается пространство?",
+        "en": "Where does the creature end and the space begin?"
+      },
+      "box": {
+        "x": 0.796,
+        "y": 0.327,
+        "width": 0.142,
+        "height": 0.212
+      },
+      "anchor": {
+        "x": 0.867,
+        "y": 0.433
+      },
+      "shape": "rect",
+      "motifs": [
+        "hybrids",
+        "architecture",
+        "body"
+      ],
+      "related": [
+        "shell-house",
+        "pink-vessel",
+        "bagpipe"
+      ],
+      "interpretations": [
+        {
+          "kind": "museum_interpretation",
+          "text": {
+            "ru": "Каталог Прадо связывает таверну внутри туловища с чревоугодием. Личность самой фигуры остаётся спорной.",
+            "en": "The Prado catalogue connects the tavern inside the torso with gluttony. The figure’s identity remains disputed."
+          },
+          "sourceIds": [
+            "prado"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image",
+        "prado"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "source_checked",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "bagpipe",
+      "panel": "hell",
+      "title": {
+        "ru": "Музыка над человеком-деревом",
+        "en": "Music above the Tree-Man"
+      },
+      "hook": {
+        "ru": "Найдите ещё один невозможный масштаб.",
+        "en": "Find another impossible scale."
+      },
+      "observation": {
+        "ru": "Над головой человека-дерева стоит огромная волынка. Вокруг неё движутся маленькие фигуры.",
+        "en": "An enormous bagpipe stands above the Tree-Man’s head. Small figures move around it."
+      },
+      "question": {
+        "ru": "Как меняется инструмент, когда он становится архитектурой?",
+        "en": "How does an instrument change when it becomes architecture?"
+      },
+      "box": {
+        "x": 0.867,
+        "y": 0.272,
+        "width": 0.059,
+        "height": 0.082
+      },
+      "anchor": {
+        "x": 0.8965,
+        "y": 0.313
+      },
+      "shape": "rect",
+      "motifs": [
+        "music",
+        "architecture",
+        "body"
+      ],
+      "related": [
+        "harp",
+        "lute",
+        "tree-man"
+      ],
+      "interpretations": [],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "harp",
+      "panel": "hell",
+      "title": {
+        "ru": "Арфа, которая больше не утешает",
+        "en": "A harp that no longer comforts"
+      },
+      "hook": {
+        "ru": "Приблизьте струны.",
+        "en": "Look closer at the strings."
+      },
+      "observation": {
+        "ru": "Гигантская арфа соседствует с человеческими телами. Один человек оказывается среди её струн.",
+        "en": "An enormous harp stands beside human bodies. One person is caught among its strings."
+      },
+      "question": {
+        "ru": "Что происходит с предметом удовольствия, когда он становится орудием боли?",
+        "en": "What happens when an object of pleasure becomes an instrument of pain?"
+      },
+      "box": {
+        "x": 0.774,
+        "y": 0.533,
+        "width": 0.07,
+        "height": 0.219
+      },
+      "anchor": {
+        "x": 0.809,
+        "y": 0.6425000000000001
+      },
+      "shape": "rect",
+      "motifs": [
+        "music",
+        "body"
+      ],
+      "related": [
+        "lute",
+        "bagpipe"
+      ],
+      "interpretations": [
+        {
+          "kind": "museum_interpretation",
+          "text": {
+            "ru": "Прадо объясняет музыкальные инструменты в аду как орудия пытки.",
+            "en": "The Prado explains the musical instruments in Hell as instruments of torture."
+          },
+          "sourceIds": [
+            "easy"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image",
+        "easy"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "source_checked",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "lute",
+      "panel": "hell",
+      "title": {
+        "ru": "Лютня и человеческое тело",
+        "en": "A lute and a human body"
+      },
+      "hook": {
+        "ru": "Музыку здесь видно — но не слышно.",
+        "en": "Here music is seen, not heard."
+      },
+      "observation": {
+        "ru": "Большая лютня лежит рядом с арфой и человеческими фигурами. На теле одной из фигур видны нотные знаки.",
+        "en": "A large lute lies beside the harp and human figures. Musical notation appears on one figure’s body."
+      },
+      "question": {
+        "ru": "Достаточно ли нарисованных знаков, чтобы уверенно восстановить музыку?",
+        "en": "Is painted notation enough to reconstruct the music with certainty?"
+      },
+      "box": {
+        "x": 0.829,
+        "y": 0.535,
+        "width": 0.08,
+        "height": 0.208
+      },
+      "anchor": {
+        "x": 0.869,
+        "y": 0.639
+      },
+      "shape": "rect",
+      "motifs": [
+        "music",
+        "body"
+      ],
+      "related": [
+        "harp",
+        "bagpipe"
+      ],
+      "interpretations": [],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "bird-devil",
+      "panel": "hell",
+      "title": {
+        "ru": "Пожирающий зрителя мир",
+        "en": "A world that devours"
+      },
+      "hook": {
+        "ru": "Птица больше не выглядит безобидной.",
+        "en": "The bird no longer seems harmless."
+      },
+      "observation": {
+        "ru": "Синее существо с птичьей головой сидит на высоком стуле и поглощает человеческую фигуру; ниже видна тёмная яма.",
+        "en": "A blue bird-headed creature sits on a tall chair and swallows a human; a dark pit appears below."
+      },
+      "question": {
+        "ru": "Как изменился мотив птицы от рая до ада?",
+        "en": "How has the bird motif changed from Eden to Hell?"
+      },
+      "box": {
+        "x": 0.923,
+        "y": 0.596,
+        "width": 0.063,
+        "height": 0.188
+      },
+      "anchor": {
+        "x": 0.9545,
+        "y": 0.69
+      },
+      "shape": "rect",
+      "motifs": [
+        "birds",
+        "hybrids",
+        "body"
+      ],
+      "related": [
+        "birds",
+        "owl",
+        "garden-owl"
+      ],
+      "interpretations": [
+        {
+          "kind": "museum_interpretation",
+          "text": {
+            "ru": "В каталоге Прадо эта сцена связывается с наказанием алчности.",
+            "en": "The Prado catalogue associates this scene with punishment for avarice."
+          },
+          "sourceIds": [
+            "prado"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image",
+        "prado"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "source_checked",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "ice",
+      "panel": "hell",
+      "title": {
+        "ru": "Замёрзшая вода",
+        "en": "Frozen water"
+      },
+      "hook": {
+        "ru": "Та же стихия, другое ощущение.",
+        "en": "The same element, a different feeling."
+      },
+      "observation": {
+        "ru": "Под человеком-деревом располагается светлая поверхность воды или льда с маленькими фигурами.",
+        "en": "A pale expanse of water or ice with small figures lies beneath the Tree-Man."
+      },
+      "question": {
+        "ru": "Что связывает этот холодный участок с водоёмами сада?",
+        "en": "What connects this cold area with the pools in the Garden?"
+      },
+      "box": {
+        "x": 0.885,
+        "y": 0.498,
+        "width": 0.086,
+        "height": 0.074
+      },
+      "anchor": {
+        "x": 0.928,
+        "y": 0.535
+      },
+      "shape": "rect",
+      "motifs": [
+        "water",
+        "body"
+      ],
+      "related": [
+        "dark-pool",
+        "circle"
+      ],
+      "interpretations": [
+        {
+          "kind": "visual_comparison",
+          "text": {
+            "ru": "Вода повторяется во всех трёх створках, но цвет, свет и действия фигур меняют её восприятие.",
+            "en": "Water recurs in all three panels, but colour, light and the figures’ actions change how it feels."
+          },
+          "sourceIds": [
+            "image"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "observation_only",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    },
+    {
+      "id": "pig",
+      "panel": "hell",
+      "title": {
+        "ru": "Свинья в монашеском покрывале",
+        "en": "A pig in a nun’s veil"
+      },
+      "hook": {
+        "ru": "Последняя деталь нарушает привычную иерархию.",
+        "en": "One final detail unsettles the usual hierarchy."
+      },
+      "observation": {
+        "ru": "В нижнем правом углу свинья в головном покрывале склоняется к обнажённому мужчине. Рядом лежит документ.",
+        "en": "At the lower right, a pig wearing a veil leans toward a naked man. A document lies nearby."
+      },
+      "question": {
+        "ru": "Почему здесь смешаны животное, религиозная одежда и человеческий жест?",
+        "en": "Why combine an animal, religious clothing and a human gesture?"
+      },
+      "box": {
+        "x": 0.934,
+        "y": 0.866,
+        "width": 0.058,
+        "height": 0.108
+      },
+      "anchor": {
+        "x": 0.9630000000000001,
+        "y": 0.92
+      },
+      "shape": "rect",
+      "motifs": [
+        "hybrids",
+        "body"
+      ],
+      "related": [
+        "tree-man",
+        "eden"
+      ],
+      "interpretations": [
+        {
+          "kind": "museum_interpretation",
+          "text": {
+            "ru": "Каталог Прадо связывает свинью в монашеском покрывале с критикой духовенства.",
+            "en": "The Prado catalogue connects the pig in a nun’s veil with criticism of the clergy."
+          },
+          "sourceIds": [
+            "prado"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "image",
+        "prado"
+      ],
+      "coordinateReview": "visually_checked",
+      "editorReview": "source_checked",
+      "assetRevision": "commons-2020-05-28-39137x22279",
+      "context": {
+        "ru": "Здесь отправная точка — само изображение. Для этой детали мы не приписываем Босху установленного символического замысла.",
+        "en": "The image itself is the starting point. This entry does not assign a settled symbolic intention to Bosch."
+      }
+    }
+  ],
+  "threads": [
+    {
+      "id": "birds",
+      "title": {
+        "ru": "Птицы и наблюдатели",
+        "en": "Birds and watchers"
+      },
+      "subtitle": {
+        "ru": "Один мотив. Четыре разных мира.",
+        "en": "One motif. Four different worlds."
+      },
+      "description": {
+        "ru": "От маленькой совы в фонтане — к птицам больше человека и птичьему демону. Мы сопоставляем видимые формы; это не доказательство единого тайного кода.",
+        "en": "From a tiny owl in the fountain to birds larger than humans and a bird-headed demon. We compare visible forms; this does not prove a single secret code."
+      },
+      "kind": "visual_comparison",
+      "detailIds": [
+        "owl",
+        "birds",
+        "garden-owl",
+        "bird-devil"
+      ]
+    },
+    {
+      "id": "water",
+      "title": {
+        "ru": "Вода меняет состояние",
+        "en": "Water changes its state"
+      },
+      "subtitle": {
+        "ru": "Прозрачная, тёмная, замёрзшая.",
+        "en": "Clear, dark, frozen."
+      },
+      "description": {
+        "ru": "Вода соединяет створки. Посмотрите, как меняются свет, движение и её роль в каждой сцене. Значение самого мотива не следует считать одинаковым.",
+        "en": "Water connects the panels. Look at the changes in light, movement and its role in each scene. The motif need not have the same meaning everywhere."
+      },
+      "kind": "visual_comparison",
+      "detailIds": [
+        "fountain",
+        "dark-pool",
+        "circle",
+        "ice"
+      ]
+    },
+    {
+      "id": "shelter",
+      "title": {
+        "ru": "Убежища и ловушки",
+        "en": "Shelters and traps"
+      },
+      "subtitle": {
+        "ru": "Когда природа становится комнатой.",
+        "en": "When nature becomes a room."
+      },
+      "description": {
+        "ru": "Прозрачная сфера, раковина и полое тело вмещают людей. Сравните укрытие, хрупкость и замкнутость, не превращая похожие формы в один установленный символ.",
+        "en": "A transparent sphere, a shell and a hollow body contain humans. Compare shelter, fragility and enclosure without turning similar forms into one settled symbol."
+      },
+      "kind": "visual_comparison",
+      "detailIds": [
+        "globe",
+        "mussel",
+        "pink-vessel",
+        "tree-man"
+      ]
+    },
+    {
+      "id": "scale",
+      "title": {
+        "ru": "Мир теряет масштаб",
+        "en": "A world loses its scale"
+      },
+      "subtitle": {
+        "ru": "Кто здесь больше — человек или его желание?",
+        "en": "Which is larger: a human or their desire?"
+      },
+      "description": {
+        "ru": "Плоды, части тела и инструменты превышают размер человека. Что делает изменение масштаба с нашим восприятием знакомых вещей?",
+        "en": "Fruit, body parts and instruments outgrow humans. What does a change in scale do to familiar things?"
+      },
+      "kind": "visual_comparison",
+      "detailIds": [
+        "strawberry",
+        "berries",
+        "ears",
+        "harp"
+      ]
+    },
+    {
+      "id": "music",
+      "title": {
+        "ru": "Беззвучная музыка",
+        "en": "Silent music"
+      },
+      "subtitle": {
+        "ru": "Инструмент становится пространством.",
+        "en": "An instrument becomes a space."
+      },
+      "description": {
+        "ru": "Волынка, арфа и лютня — разные инструменты, объединённые адским окружением. Прадо читает музыкальные инструменты этой створки как орудия пытки. Наше сопровождение современное.",
+        "en": "Bagpipe, harp and lute are different instruments sharing a hellish setting. The Prado reads this panel’s musical instruments as instruments of torture. Our soundtrack is contemporary."
+      },
+      "kind": "visual_comparison",
+      "detailIds": [
+        "bagpipe",
+        "harp",
+        "lute"
+      ]
+    }
+  ],
+  "journeyIds": [
+    "eden",
+    "predator",
+    "fountain",
+    "owl",
+    "circle",
+    "birds",
+    "berries",
+    "globe",
+    "garden-fountain",
+    "fire",
+    "ears",
+    "tree-man",
+    "harp",
+    "bird-devil",
+    "pig"
+  ],
+  "sources": [
+    {
+      "id": "image",
+      "title": "Wikimedia Commons · The Garden of earthly delights.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Garden_of_earthly_delights.jpg",
+      "type": {
+        "ru": "Репродукция / визуальные наблюдения",
+        "en": "Reproduction / visual evidence"
+      },
+      "note": {
+        "ru": "39 137 × 22 279 px. Public Domain Mark 1.0. Источник файла: Bosch Research and Conservation Project.",
+        "en": "39,137 × 22,279 px. Public Domain Mark 1.0. File provenance: Bosch Research and Conservation Project."
+      }
+    },
+    {
+      "id": "prado",
+      "title": "Museo Nacional del Prado · Collection catalogue",
+      "url": "https://www.museodelprado.es/en/the-collection/art-work/the-garden-of-earthly-delights-triptych/02388242-6d6a-4e9e-a992-e1311eab3609",
+      "type": {
+        "ru": "Музейный каталог",
+        "en": "Museum catalogue"
+      },
+      "note": {
+        "ru": "Сведения о произведении и трактовка сцен ада; текст Пилар Сильвы Марото.",
+        "en": "Artwork information and readings of Hell; text by Pilar Silva Maroto."
+      }
+    },
+    {
+      "id": "easy",
+      "title": "Museo Nacional del Prado · Easy-to-read artwork",
+      "url": "https://www.museodelprado.es/en/easy-to-read/the-garden-of-earthly-delights-bosch/c32e04cc-745c-8d42-a6d9-bf24bb93cb06",
+      "type": {
+        "ru": "Доступное музейное объяснение",
+        "en": "Accessible museum explanation"
+      },
+      "note": {
+        "ru": "Трактовки стеклянной сферы, водоёма, архитектуры и музыкальных инструментов.",
+        "en": "Readings of the glass globe, pool, architecture and musical instruments."
+      }
+    },
+    {
+      "id": "mittman",
+      "title": "Asa Simon Mittman · Art Appreciation: Spotlight",
+      "url": "https://smarthistory.org/garden-bosch/",
+      "type": {
+        "ru": "Авторская искусствоведческая статья",
+        "en": "Authored art-history essay"
+      },
+      "note": {
+        "ru": "Непрерывный пейзаж, хищники в раю и вопросы к центральной створке.",
+        "en": "The continuous landscape, predators in Eden and questions about the central panel."
+      }
+    },
+    {
+      "id": "harris",
+      "title": "Beth Harris & Steven Zucker · The Garden of Earthly Delights",
+      "url": "https://smarthistory.org/bosch-the-garden-of-earthly-delights/",
+      "type": {
+        "ru": "Искусствоведческий диалог",
+        "en": "Art-history conversation"
+      },
+      "note": {
+        "ru": "Адам и Ева, масштабы плодов и неоднозначность удовольствия.",
+        "en": "Adam and Eve, oversized fruit and the ambiguity of pleasure."
+      }
+    },
+    {
+      "id": "technical",
+      "title": "Museo Nacional del Prado · Bosch: The 5th Centenary Exhibition",
+      "url": "https://www.museodelprado.es/en/whats-on/exhibition/bosch-the-5th-centenary-exhibition/f049c260-888a-4ff1-8911-b320f587324a",
+      "type": {
+        "ru": "Выставка / исследование",
+        "en": "Exhibition / research"
+      },
+      "note": {
+        "ru": "Датировка около 1490–1500 и технические изображения произведения.",
+        "en": "Dating to c. 1490–1500 and technical images of the work."
+      }
+    }
+  ]
+}
