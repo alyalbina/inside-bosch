@@ -1,0 +1,69 @@
+name: Import verified project archive
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: initial-source-import
+  cancel-in-progress: false
+jobs:
+  import:
+    if: github.repository == 'alyalbina/inside-bosch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Confirm this is the initial import
+        run: test ! -f package.json
+      - name: Download the verified draft release archive
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          asset_id="$(gh api "repos/$GITHUB_REPOSITORY/releases" --jq '[.[] | select(.draft == true and .tag_name == "v0.3.0") | .assets[] | select(.name == "inside-bosch-v0.3.0.zip") | .id] | if length == 1 then .[0] else error("Missing or ambiguous source archive") end')"
+          gh api -H "Accept: application/octet-stream" "repos/$GITHUB_REPOSITORY/releases/assets/$asset_id" > "$RUNNER_TEMP/inside-bosch.zip"
+      - name: Verify checksum and import source
+        env:
+          ARCHIVE_SHA256: 43f670c3513bd63b5a03d60bd2730470f34e8faa6df982f0801c9567fae15e7b
+        run: |
+          python3 - <<'PY'
+          import hashlib, os, shutil, zipfile
+          from pathlib import Path, PurePosixPath
+          archive = Path(os.environ['RUNNER_TEMP']) / 'inside-bosch.zip'
+          actual = hashlib.file_digest(archive.open('rb'), 'sha256').hexdigest()
+          if actual != os.environ['ARCHIVE_SHA256']:
+              raise SystemExit('Source archive checksum mismatch')
+          excluded = {'.git', '.github', '.openai', 'node_modules', 'dist', '__pycache__', '.sites-runtime'}
+          count = 0
+          with zipfile.ZipFile(archive) as source:
+              for item in source.infolist():
+                  parts = PurePosixPath(item.filename).parts
+                  if not parts or parts[0] != 'inside-bosch' or '..' in parts:
+                      raise SystemExit('Unexpected archive path')
+                  if item.is_dir() or any(part in excluded or part.startswith('.env') for part in parts):
+                      continue
+                  relative = Path(*parts[1:])
+                  if relative.suffix == '.tsbuildinfo':
+                      continue
+                  target = Path.cwd() / relative
+                  target.parent.mkdir(parents=True, exist_ok=True)
+                  with source.open(item) as src, target.open('wb') as dst:
+                      shutil.copyfileobj(src, dst)
+                  count += 1
+          print('Verified archive; imported', count, 'source and asset files.')
+          PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
+      - name: Publish verified source to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit --quiet --author="Albina Urubkina <96131180+alyalbina@users.noreply.github.com>" -m "Publish Inside Bosch art experience and bilingual portfolio case"
+          git push origin HEAD:main
